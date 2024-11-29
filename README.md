@@ -1,6 +1,8 @@
 ## Hi there!👋
 
-# My name is Sylvia, but you may know me as Polaris🌌. I'm a final year Computer Scinece/Economics student at UNSW and an aspiring Frontend Developer, with experience in React, Tailwind, Node.js, Firebase, Figma and more. 
+My name is Sylvia, but you may know me as Polaris🌌. 
+
+I'm a final year Computer Science/Economics student at UNSW and an aspiring Frontend Developer, with experience in React, Tailwind, Node.js, Firebase, Figma and more. 
 
 # Here are some fun facts about me:
 - 🔭I have been contributing to [Structs.sh](https://structs.sh/), an algorithms visualiser under UNSW Software Development Society, for a year now. Now I'm excited to serve as its Frontend Director for 2025 to bring on more and better features!
