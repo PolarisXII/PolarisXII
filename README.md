@@ -10,4 +10,4 @@ I'm a final year Computer Science/Economics student at UNSW and an aspiring Fron
 - 🛹In my free time, I like to cruise around on my skateboard along the harbour. 
 
 # My LeetCode stats: 
-![Leetcode Stats](https://leetcard.jacoblin.cool/PolarisXII)
+![Leetcode Stats](https://leetcard.jacoblin.cool/HarbingerStar)
