@@ -11,4 +11,3 @@ I'm a final year Computer Science/Economics student at UNSW and an aspiring Fron
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/HarbingerStar)
-![Polaris' GitHub stats](https://github-readme-stats.vercel.app/api?username=PolarisXII&theme=midnight-purple&show_icons=true)
