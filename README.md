@@ -9,5 +9,6 @@ I'm a final year Computer Science/Economics student at UNSW and an aspiring Fron
 - 🦀I have been exploring Rust by building a Discord weather bot called [meteo.rs](https://github.com/PolarisXII/meteo.rs).
 - 🛹In my free time, I like to cruise around on my skateboard along the harbour. 
 
-# My LeetCode stats: 
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/HarbingerStar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarisXII&layout=pie)](https://github.com/PolarisXII/github-readme-stats)
